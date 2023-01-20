@@ -16,10 +16,9 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated.  
 THEN the password is either displayed in an alert or written to the page.  
 
+Description: Website to generate a random password.  
+
 Link to deployed application: https://trayprey.github.io/stunning-invention/  
 
 Screenshot:  
 ![Screenshot 2023-01-19 at 10 55 45 PM](https://user-images.githubusercontent.com/119766277/213614863-8920dfaf-ee2b-4ed4-8df9-42f3b7b7c4e4.png)  
-  
-  
-# Password Generator Starter Code. 
