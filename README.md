@@ -1,4 +1,4 @@
-Module 3 Challenge: Password Generator
+Description: Website to generate a random password using characters such as lower case, upper case, numbers, & symbols. 
 
 GIVEN I need a new, secure password.  
 WHEN I click the button to generate a password.  
@@ -16,9 +16,8 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated.  
 THEN the password is either displayed in an alert or written to the page.  
 
-Description: Website to generate a random password.  
-
 Link to deployed application: https://trayprey.github.io/stunning-invention/  
 
 Screenshot:  
-![Screenshot 2023-01-19 at 10 55 45 PM](https://user-images.githubusercontent.com/119766277/213614863-8920dfaf-ee2b-4ed4-8df9-42f3b7b7c4e4.png)  
+![Screenshot 2023-01-22 at 10 49 31 PM](https://user-images.githubusercontent.com/119766277/213962822-80b81a42-b120-4193-afd6-9ee909f04fd1.png) 
+  
