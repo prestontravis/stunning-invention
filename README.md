@@ -19,5 +19,5 @@ THEN the password is either displayed in an alert or written to the page.
 Link to deployed application: https://trayprey.github.io/stunning-invention/  
 
 Screenshot:  
-![Screenshot 2023-01-22 at 10 49 31 PM](https://user-images.githubusercontent.com/119766277/213962822-80b81a42-b120-4193-afd6-9ee909f04fd1.png). 
+![Screenshot 2023-01-22 at 10 49 31 PM](https://user-images.githubusercontent.com/119766277/213962822-80b81a42-b120-4193-afd6-9ee909f04fd1.png) 
   
